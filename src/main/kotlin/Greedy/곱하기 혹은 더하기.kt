@@ -1,4 +1,4 @@
-package Greedy_Algorithm
+package Greedy
 
 fun main() {
     var data = readLine()!!
