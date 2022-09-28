@@ -12,3 +12,4 @@
 |  | 왕실의 나이트 | [왕실의-나이트.kt](https://github.com/dev-baik/Algorithm-coding-test/blob/master/src/main/kotlin/Implementation/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.kt) |
 |  | 문자열 재정렬 | [문자열-재정렬.kt](https://github.com/dev-baik/Algorithm-coding-test/blob/master/src/main/kotlin/Implementation/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.kt) |
 | DFS | 음료수 얼려 먹기 | [음료수-얼려-먹기.kt](https://github.com/dev-baik/Algorithm-coding-test/blob/master/src/main/kotlin/DFS/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.kt) |
+| BFS | 미로 탈출 | [미로-탈출.kt](https://github.com/dev-baik/Algorithm-coding-test/blob/master/src/main/kotlin/BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.kt) |
