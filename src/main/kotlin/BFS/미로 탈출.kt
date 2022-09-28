@@ -1,4 +1,4 @@
-package DFS
+package BFS
 
 fun main() {
     var n = readLine()!!.toInt()
